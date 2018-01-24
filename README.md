@@ -1,1 +1,3 @@
-# writinghelp.github.io
+# writinghelp
+
+https://sadhbhh.github.io/writingprompts/
